@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 Hey there! 👋  
 I'm **Siddhant Jain**, a **Computer Science student** at **University of Maryland, College Park**, passionate about **full-stack development, DevOps, and scalable system design**.  
 
